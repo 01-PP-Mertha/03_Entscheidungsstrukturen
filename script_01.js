@@ -33,7 +33,7 @@ console.log("------------------");
 // Türsteher-Politik (Doors 10 p.m.)
 
 // if (isJohnOlder)
-if(ageJohn > ageMark)
+// if(ageJohn > ageMark)
 // if(true)
 // if(false)
 {
