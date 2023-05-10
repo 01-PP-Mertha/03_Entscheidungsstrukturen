@@ -4,8 +4,8 @@
 
 // Deklaration + Assignment
 
-const ageJohn = 30;
-const ageMark = 30;
+const ageJohn = 25;
+const ageMark = 30; 
 
 // console.log(ageJohn);
 // console.log(ageMark);
@@ -32,11 +32,11 @@ console.log("------------------");
 // entweder JA oder nix ... alternativlos
 // Türsteher-Politik (Doors 10 p.m.)
 
+// if (isJohnOlder)
+if(ageJohn > ageMark)
 // if(true)
-if(false)
+// if(false)
 {
     console.log("John ist älter.");
-
-
 }
 
